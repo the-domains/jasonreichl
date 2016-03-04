@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jasonreichl]]></title>
-        <description><![CDATA[jasonreichl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My personal site]]></title>
+        <description><![CDATA[My personal site]]></description>
+        <link>https://thegrid.ai/jasonreichl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:51:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 16:11:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasonreichl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About me]]></title>
-            <description><![CDATA[<article><h1>About me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa71d7c7d9e89b39c70ef2a60ff24abc66698b0d.png"></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <description><![CDATA[<article><h1>About me</h1><p>My name is Jason Reichl. I am a muscian, creator, designer, entrepreneur, and new father. If you are here then you are a person I met at a party, my wife, or just a creeper. Cheers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa71d7c7d9e89b39c70ef2a60ff24abc66698b0d.png"></article>]]></description>
+            <link>https://thegrid.ai/jasonreichl/about-me/index.html</link>
             <guid isPermaLink="false">4870bdfd-e426-4518-9252-dd08db8d786b</guid>
-            <pubDate>Fri, 04 Mar 2016 04:50:54 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 16:11:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
