@@ -1,0 +1,28 @@
+name: jasonreichl
+favicon: null
+layout_spectrum: 0.9875520940404385
+typography_spectrum: 0.5729195435997099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9957177003379911
+  lightness: 0.810229750117287
+  saturation: 0.5453783075790852
+  rhythmicContrast: 0.6692222629208118
+purpose: []
