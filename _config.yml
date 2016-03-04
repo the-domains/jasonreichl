@@ -1,29 +1,41 @@
-name: Jason Reichl
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.81097
 title: My personal site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5453783075790852
+  brandStrength: 0.75
+  rhythmicContrast: 0.6692222629208118
   brandColors:
     - '#f8fdfe'
     - '#000000'
     - '#353a3d'
     - '#808388'
     - '#a5122f'
-  brandStrength: 0.75
   lightness: 0.810229750117287
-  saturation: 0.5453783075790852
-  rhythmicContrast: 0.6692222629208118
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Jason Reichl
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.81097
+layout_spectrum: 0.4087003
